@@ -1,0 +1,16 @@
+site_name: Cheat Sheet
+theme:
+  name: material
+  logo: /images/favicon.png
+  favicon: /images/favicon.png
+
+nav:
+  - Home: index.md
+  - Js : javascript.md
+  - Css : css.md
+  - Html : html.md
+  - Java : java.md
+  - Mysql :  mysql.md
+  - Jquery : jquery.md
+  - Python :  python.md
+  - Markdown : markdown.md

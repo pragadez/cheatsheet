@@ -1,0 +1,2 @@
+command = "mkdocs build"
+publish = "site"
